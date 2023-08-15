@@ -1,5 +1,3 @@
-# HR Analytics for Atlas Lab
-
 In this Power BI case study, I explored a dataset for a fictitious software company called Atlas Labs. This project focuses on analyzing and visualizing data of employee attrition and to gain insights into factors that contribute to employee turn over.
 #### Primary goal:
 * Monitor key HR Metrics on employees
